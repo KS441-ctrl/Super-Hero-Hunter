@@ -4,11 +4,14 @@
 
 ## Screenshots <br>
 ## Preview - Home <br>
-  <img src="/images/home.png" alt="Home Screenshot" srcset=""> <br>
-## Preview - Favourite <br>
-  <img src="images/favourite.png" alt="favouritelist Screenshot" srcset=""> <br>
+  ![Uploading Screenshot (24).png…]()
+
+## Preview - Favourite![Screenshot (26)](https://user-images.githubusercontent.com/63497877/212098458-7047b939-a289-4421-afe4-bf73c9118b97.png)
+ <br>
+  
 ## Preview - About Hero <br>
-  <img src="images/about.png?raw=true" alt="aboutsuperhero Screenshot" srcset=""> <br>
+  
+![Uploading Screenshot (25).png…]()
 
 #### Thank you!
 
