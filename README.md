@@ -14,6 +14,11 @@
 
  ![Screenshot (24)](https://user-images.githubusercontent.com/63497877/212099023-0af8e643-470e-4870-91c1-55802c6c8128.png)
 ## Preview - Home <br>
-#### Thank you!
+
+
+![Screenshot (25)](https://user-images.githubusercontent.com/63497877/212100274-6da3e98f-4b01-4545-bbbb-e043c954108c.png)
+
+
+#### Thank you!!!
 
 
