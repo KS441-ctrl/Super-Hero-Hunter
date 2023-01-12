@@ -4,7 +4,7 @@
 
 ## Screenshots <br>
 ## Preview - Home <br>
-  <img src="C:\Users\kotha\OneDrive\Pictures\Screenshots\Screenshot (24).png" alt="Home Screenshot" srcset=""> <br>
+  <img src="file:///D:/SuperHunter_App/index.html" alt="Home Screenshot" srcset=""> <br>
 ## Preview - Favourite <br>
   <img src="C:\Users\kotha\OneDrive\Pictures\Screenshots\Screenshot (26).png" alt="favouritelist Screenshot" srcset=""> <br>
 ## Preview - About Hero <br>
